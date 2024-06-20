@@ -1,0 +1,2 @@
+../Drivers/LMX2594/Src/lmx2594_parameters_control.c:3:6:LMX2594_WriteParameter	80	static
+../Drivers/LMX2594/Src/lmx2594_parameters_control.c:20:10:LMX2594_ReadParameter	72	static

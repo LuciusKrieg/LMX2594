@@ -1,0 +1,2 @@
+../Drivers/LMX2594/Src/lmx2594_registers_control.c:3:6:LMX2594_WriteRegister	24	static
+../Drivers/LMX2594/Src/lmx2594_registers_control.c:10:10:LMX2594_ReadRegister	32	static

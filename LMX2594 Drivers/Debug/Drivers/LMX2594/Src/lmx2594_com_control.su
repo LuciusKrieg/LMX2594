@@ -1,0 +1,4 @@
+../Drivers/LMX2594/Src/lmx2594_com_control.c:3:6:LMX2594_COM_WriteDigit	32	static
+../Drivers/LMX2594/Src/lmx2594_com_control.c:7:6:LMX2594_COM_WriteDouble	32	static
+../Drivers/LMX2594/Src/lmx2594_com_control.c:12:10:LMX2594_COM_ReadDigit	32	static
+../Drivers/LMX2594/Src/lmx2594_com_control.c:18:8:LMX2594_COM_ReadDouble	32	static

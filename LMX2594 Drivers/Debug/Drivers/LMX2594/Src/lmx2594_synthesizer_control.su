@@ -1,0 +1,11 @@
+../Drivers/LMX2594/Src/lmx2594_synthesizer_control.c:3:6:LMX2594_CONTROL_OUTA_POWER	24	static
+../Drivers/LMX2594/Src/lmx2594_synthesizer_control.c:7:6:LMX2594_CONTROL_OUTA_LEVEL	24	static
+../Drivers/LMX2594/Src/lmx2594_synthesizer_control.c:11:6:LMX2594_CONTROL_OUTA_MUX	24	static
+../Drivers/LMX2594/Src/lmx2594_synthesizer_control.c:15:6:LMX2594_CONTROL_OUTB_POWER	24	static
+../Drivers/LMX2594/Src/lmx2594_synthesizer_control.c:19:6:LMX2594_CONTROL_OUTB_LEVEL	24	static
+../Drivers/LMX2594/Src/lmx2594_synthesizer_control.c:23:6:LMX2594_CONTROL_OUTB_MUX	24	static
+../Drivers/LMX2594/Src/lmx2594_synthesizer_control.c:27:6:LMX2594_CONTROL_MASH_ORDER	24	static
+../Drivers/LMX2594/Src/lmx2594_synthesizer_control.c:31:6:LMX2594_CONTROL_CPG_VALUE	24	static
+../Drivers/LMX2594/Src/lmx2594_synthesizer_control.c:36:6:LMX2594_CONTROL_DIVIDERS_AND_CALIBRATION	248	static,ignoring_inline_asm
+../Drivers/LMX2594/Src/lmx2594_synthesizer_control.c:147:6:LMX2594_CONTROL_CHIP_POWER	32	static
+../Drivers/LMX2594/Src/lmx2594_synthesizer_control.c:153:6:LMX2594_CONTROL_CHIP_RESET	16	static
